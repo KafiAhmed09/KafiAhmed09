@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KafiAhmed09
-- 👀 I’m interested in Python,Web Design.
+- 👀 I’m interested in Python,Web Design,ML,AI.
 - 🌱 I’m currently learning Anaconda.Python.
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me kafiahmed909@gmail.com
